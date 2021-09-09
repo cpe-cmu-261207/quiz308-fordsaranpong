@@ -23,7 +23,7 @@ function App() {
           {/* like section */}
           <div className='flex items-center'>
             <img className='w-4 h-4 mr-1' src='/like.svg'></img>
-            <p className='text-gray-300'>-100 คน</p>
+            <p className='text-gray-300'>100 คน</p>
           </div>
 
         </div>
