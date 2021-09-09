@@ -13,17 +13,17 @@ function App() {
 
           {/* image and name */}
           <div className="flex space-x-2 items-center">
-            <img className="w-12 h-12 rounded-full" src="/profileImages/handsome.jpg"></img>
-            <span className='font-semibold text-lg text-white'>Chayanin Suatap 610631100</span>
+            <img className="w-12 h-12 rounded-full" src="/profileImages/kohbog icon.png"></img>
+            <span className='font-semibold text-lg text-white'>Saranpong maneesophon 630612191</span>
           </div>
 
           {/* status message */}
-          <p className='text-white'>Quiz ง่ายจังเลยครับ ขอยาก ๆ กว่านี้ได้ไหม #261207</p>
+          <p className='text-white'>Quiz ยากจังเลยครับ ของ่าย ๆ กว่านี้ได้ไหม #261207</p>
 
           {/* like section */}
           <div className='flex items-center'>
             <img className='w-4 h-4 mr-1' src='/like.svg'></img>
-            <p className='text-gray-300'>100 คน</p>
+            <p className='text-gray-300'>-100 คน</p>
           </div>
 
         </div>
